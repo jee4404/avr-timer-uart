@@ -1,0 +1,8 @@
+*.elf
+*.o
+*.hex
+*.d
+*.lss
+*.map
+*.eep
+./Debug
